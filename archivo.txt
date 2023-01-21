@@ -1,0 +1,7 @@
+Archivo - .DS_Store - Fecha de modificación: Sat Jan 14 23:39:37 CET 2023
+Archivo - .localized - Fecha de modificación: Tue Dec 13 17:17:10 CET 2022
+Directorio - Documentacion importante - Fecha de modificación: Fri Dec 30 19:27:18 CET 2022
+Archivo - Grabación de pantalla 2023-01-15 a las 20.02.04.mov - Fecha de modificación: Sun Jan 15 20:03:03 CET 2023
+Directorio - Material extra Programacion - Fecha de modificación: Fri Jan 06 19:35:53 CET 2023
+Directorio - PROGAMACION ITACADEMY - Fecha de modificación: Sun Jan 08 10:02:44 CET 2023
+Directorio - eclipse-workspace - Fecha de modificación: Sat Jan 21 10:09:07 CET 2023
